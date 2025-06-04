@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><b>intruduction to internet protocol and ip address</b></title>
+<head>
+<body>
+    <h1><b>internet protocols and ip addresses</b></h1>
+    <p>
+       <b>internet protocols</b>are set of rules that govrn how data is transmitted over a network.
+       These protocols ensure that devices can communicate effectively and reliably accross the internet.
+       They define how data packets are formatted, transmitted, and recived.
+       some common examples of internet protocol<b>FTP</b>(file transfer protocol),<b>TCP</b>(transmission control protocol), and<b>SMTP</b>(simple mail transfer protocol)
+    </p>
+    <h2><b>Types and versions of ip addresses</b></h2>
+    <p>
+        <b>ip addresses</b>(internet protocol address) are unique numerical identifiers assigned to each devices
+        connected to a computer network that uses the internet protocol for communication.They allow devices to locate 
+        and identify each other on a netwok. These are two main versions of ip addresses
+        <b>IPv4</b>and<b>IPv6</b>.<b>IPv4</b>uses a 32-bit address format, typically displayed as four decimal numbers separated by dots (e.g.,192.168.1.1),
+        and is the most widely used version.<b>IPv6</b>, introduced to address the limitatons of IPv4, uses a 128-bit 
+        address format, allowing for a vastly larger number of unique addresses. It is expressed in hexadecimal and 
+        separated by colons (e.g.,2001:0db8:85a3:0000:0000:8a2e:0370:7334).<b>IPv6</b>is increasingly used in modern nrtworking due to the growing number of
+        internet connected devices.
+    </p>
+</body>
+</html>    
